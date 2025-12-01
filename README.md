@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I am a 2nd year software engineering student at Fırat University.<br>👯 I love coding and working with computers<br>🤝🌟 Software development and bug fixing is a very enjoyable job for me and one of the most important pastimes in my life.<br>
 
 
 ## 🌐 Socials:
